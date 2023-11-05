@@ -1,0 +1,40 @@
+[
+  {
+    "skinId": 1,
+    "name": "Heroe1",
+    "price": 20,
+    "type": "SUPERHEROE"
+  },
+  {
+    "skinId": 2,
+    "name": "SpecialOne",
+    "price": 200,
+    "type": "PREMIUM"
+  },
+  {
+    "skinId": 3,
+    "name": "Flash",
+    "price": 50,
+    "type": "SUPERHEROE"
+  },
+  {
+    "skinId": 4,
+    "name": "Darth Vader",
+    "price": 120,
+    "type": "VILLAIN"},
+  {
+    "skinId": 5,
+    "name": "Heroe2",
+    "price": 30,
+    "type": "SUPERHEROE"},
+  {
+    "skinId": 6,
+    "name": "Heroe3",
+    "price": 50,
+    "type": "SUPERHEROE"},
+  {
+    "skinId": 7,
+    "name": "X20LK",
+    "price": 80,
+    "type": "ROBOT"}
+]
